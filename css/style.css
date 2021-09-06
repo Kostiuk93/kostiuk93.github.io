@@ -15,6 +15,10 @@ nav {
   z-index: 5;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hamburger {
   display: none;
 }
